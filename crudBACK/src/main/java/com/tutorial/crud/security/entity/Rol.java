@@ -4,7 +4,7 @@ import com.sun.istack.NotNull;
 import com.tutorial.crud.security.enums.RolNombre;
 
 import javax.persistence.*;
-
+//utilizada para la BBDD
 @Entity
 public class Rol {
     @Id

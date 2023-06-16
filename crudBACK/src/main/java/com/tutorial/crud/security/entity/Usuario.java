@@ -5,6 +5,7 @@ import com.sun.istack.NotNull;
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
+//utilizada para la BBDD
 @Entity
 public class Usuario {
 
